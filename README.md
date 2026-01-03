@@ -1,4 +1,4 @@
-# capstone-turtle-game
+# Capstone-turtle-game
 # 🐢 Turtle Crossing Game
 
 A retro-style arcade game built using **Python** and the **Turtle** graphics library. This project is a capstone assignment that demonstrates the practical application of **Object-Oriented Programming (OOP)** concepts.
